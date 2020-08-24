@@ -1,4 +1,4 @@
-# RC_Science_Dong-a
+# 과학동아 RC카
 
 
 This is Gyro-controlling, RC car project!
